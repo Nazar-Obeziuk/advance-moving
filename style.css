@@ -1,0 +1,20 @@
+.w-section__content {
+   padding: 20px !important;
+}
+#w-section__content {
+   padding: 0px !important;
+   margin: 0px !important;
+}
+.w-section__content .w-section__content .w-section__vidguk {
+   display: none !important;
+}
+.w-section__content img {
+   width: 100% !important;
+}
+img .w-section__content {
+   width: 100% !important;
+}
+@media screen and (min-width: 1024px) {
+   .w-section__content {
+   }
+}
